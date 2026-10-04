@@ -25,3 +25,5 @@ IT KNOWS WHEN TO SAY NO
 - Skips while the server is near its AI limit.
 - HQs are never targeted.
 - Every skip is logged with the reason.
+
+REQUIRED DEPENDENCY: REAPER_AiHelicopters - WCS by r34p3r. It supplies the AI pilot that flies the helicopter. Without it nothing flies. Thank you to r34p3r.
