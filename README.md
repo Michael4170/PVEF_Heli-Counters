@@ -26,4 +26,9 @@ IT KNOWS WHEN TO SAY NO
 - HQs are never targeted.
 - Every skip is logged with the reason.
 
+TESTED WITH THE FOLLOWING HELICOPTERS
+
+- MI8MT
+- MI-8MT HE
+
 REQUIRED DEPENDENCY: REAPER_AiHelicopters - WCS by r34p3r. It supplies the AI pilot that flies the helicopter. Without it nothing flies. Thank you to r34p3r.
